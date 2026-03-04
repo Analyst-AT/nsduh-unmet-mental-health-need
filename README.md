@@ -28,6 +28,11 @@ Among U.S. adults (18+), is being **uninsured** associated with higher odds of *
   - **Insured:** 4.1% (design-adjusted p < .001)
 - Adjusted survey-weighted model:
   - **Uninsured vs insured:** AOR = **1.32** (95% CI: 0.99–1.75), p = .056
+## Key Visualizations
+
+![Unmet Need by Insurance](docs/Figures/fig1_unmet_need_by_insurance.png)
+
+![Regression Results](docs/Figures/fig2_aor_by_age.png)
 
 ## Files to review
 - **Final paper:** `/docs/Final_Report.docx`
