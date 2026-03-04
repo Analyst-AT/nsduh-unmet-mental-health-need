@@ -1,0 +1,11 @@
+Variable,AdjustedOR,CI95,pValue
+Uninsured vs Insured,1.32,0.99–1.75,.056
+Male vs Female,0.72,0.61–0.85,<.001
+Age 18–25 vs 50+,8.68,6.45–11.63,<.001
+Age 26–34 vs 50+,5.63,4.00–7.93,<.001
+Age 35–49 vs 50+,3.27,2.26–4.71,<.001
+Non-Hispanic Black vs Hispanic,1.86,1.46–2.38,<.001
+Non-Hispanic Asian vs Hispanic,1.38,1.05–1.81,.021
+Less than High School vs College Grad,2.99,2.10–4.27,<.001
+High School Graduate vs College Grad,2.24,1.74–2.89,<.001
+Some College vs College Grad,1.35,1.09–1.67,.006
